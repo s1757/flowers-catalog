@@ -1,0 +1,7 @@
+[
+  { "name": "Jasmine",   "category": "Jasmines",   "colour": "White", "price": 18.0, "quantity": 20 },
+  { "name": "Peony",     "category": "Peonies",    "colour": "Pink",  "price": 45.0, "quantity": 12 },
+  { "name": "Daisy",     "category": "Daisies",    "colour": "White", "price": 12.0, "quantity": 35 },
+  { "name": "Carnation", "category": "Carnations", "colour": "Red",   "price": 22.0, "quantity": 28 },
+  { "name": "Gardenia",  "category": "Gardenias",  "colour": "Cream", "price": 30.0, "quantity": 15 }
+]
